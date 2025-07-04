@@ -5,10 +5,10 @@
 
 ### 🔍 About Me
 
-- 👩‍🎓 Electrical Engineering Student @ NIT Silchar (2022–2026), CGPA: 8.63
-- 🧠 Exploring: Computer Vision, Machine Learning, and DSA
-- 💡 Focused on building **problem-solving tech** that impacts real lives
-- 🌱 Currently working on: `Vaynomics` and a **voice-based image descriptor** for the visually impaired
+- 👩‍🎓 Electrical Engineering Student @ NIT Silchar (2022–2026), CGPA: 8.63  
+- 🧠 Exploring: Computer Vision, Machine Learning, and DSA  
+- 💡 Focused on building **problem-solving tech** that impacts real lives  
+- 🌱 Currently working on: `Vaynomics` and a **voice-based image descriptor** for the visually impaired  
 - 🎯 Goal: Land a tech role in software development (Web + ML/AI)
 
 ---
@@ -28,10 +28,10 @@
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="5" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="5" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="5" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="5" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:26px;width:auto;margin-right:10px;" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:26px;width:auto;margin-right:10px;" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:26px;width:auto;margin-right:10px;" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:26px;width:auto;margin-right:10px;" alt="JavaScript"/>
 </p>
 
 ---
@@ -39,14 +39,14 @@
 ### 🌐 Web Development
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="5" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="5" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="5" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="5" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="5" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="5" alt="React.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="5" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="5" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:26px;width:auto;margin-right:10px;" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:26px;width:auto;margin-right:10px;" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:26px;width:auto;margin-right:10px;" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="height:26px;width:auto;margin-right:10px;" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="height:26px;width:auto;margin-right:10px;" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:26px;width:auto;margin-right:10px;" alt="React.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height:26px;width:auto;margin-right:10px;" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" style="height:26px;width:auto;margin-right:10px;" alt="Tailwind CSS"/>
 </p>
 
 ---
@@ -54,9 +54,9 @@
 ### 🧠 Machine Learning & Computer Vision
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="5" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="5" alt="OpenCV"/>
-  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/logo-github.png" height="5" alt="YOLOv8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:26px;width:auto;margin-right:10px;" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="height:26px;width:auto;margin-right:10px;" alt="OpenCV"/>
+  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/logo-github.png" style="height:26px;width:auto;margin-right:10px;" alt="YOLOv8"/>
 </p>
 
 ---
@@ -64,15 +64,14 @@
 ### ⚙️ Tools & Platforms
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="5" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="5" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" height="5" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="5" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="5" alt="Jupyter Notebook"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" height="5" alt="Anaconda"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" height="5" alt="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:26px;width:auto;margin-right:10px;" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height:26px;width:auto;margin-right:10px;" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" style="height:26px;width:auto;margin-right:10px;" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" style="height:26px;width:auto;margin-right:10px;" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" style="height:26px;width:auto;margin-right:10px;" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" style="height:26px;width:auto;margin-right:10px;" alt="Anaconda"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" style="height:26px;width:auto;margin-right:10px;" alt="Windows"/>
 </p>
-
 
 ---
 

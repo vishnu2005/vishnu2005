@@ -81,6 +81,10 @@
   Real-time app that converts images into audio in Indian languages for visually impaired users.  
   *Tech:* Python, OpenCV, TTS, Multilingual NLP, React Native
 
+- 🔹 **[Image Captioning Model – 87% Accuracy](https://github.com/vishnu2005/Image-Captioning-Model-87-accuracy-)**  
+  Transformer-based encoder-decoder architecture trained on MS COCO for scene understanding.  
+  *Tech:* ViT, GPT2, Transformers, PyTorch, Tokenizers, Custom Training Pipelines
+
 - 🔹 **[Vaynomics – Smart Travel Optimizer](https://github.com/vishnu2005/vaynomics)** *(Coming Soon)*  
   Helps reduce travel cost via real-time fare comparison, fuel estimation & public transit info.  
   *Tech:* HTML, CSS, JS, MongoDB, Node.js

@@ -1,71 +1,71 @@
 <h1 align="center">Hi 👋, I'm Vishnu Priya</h1>
-<h3 align="center">Electrical Engineering undergrad @ NIT Silchar | Future Software Developer | MERN | ML | DSA</h3>
+<h3 align="center">B.Tech EE @ NIT Silchar | Software Dev in the Making | Web Dev | CV & ML Enthusiast</h3>
 
 ---
 
-### 🚀 About Me
+### 🔍 About Me
 
-- 🧠 Exploring the intersection of **software engineering and real-world problem-solving**
-- 🔭 Currently building **Vaynomics** – A smart cost-saver for transportation logistics
-- 🎓 Engineering @ NIT Silchar (2022-2026) | CGPA: 8.63
-- 💡 Love solving real-world problems using **AI/ML + Full-Stack Dev + DSA**
-
----
-
-### 💼 Projects
-
-- 🔹 [Voice-Based Image Descriptor](https://github.com/vishnu2005/Image-Captioning-App)  
-  Real-time mobile image captioning system for visually impaired users in Indian languages.  
-  `Python`, `OpenCV`, `TTS`, `React Native`, `ML`
-
-- 🔹 [Vaynomics – Smart Travel Optimizer](https://github.com/vishnu2005/vaynomics) *(to be uploaded)*  
-  Navigate, Calculate, Compare, Save. Fuel estimation, fare comparison, and route cost optimization.  
-  `React.js`, `Node.js`, `MongoDB`, `Express.js`
-
-- 🔹 [Myntra Add-on (Team Project)](https://github.com/vishnu2005/NIT-SILCHAR_BINARY-BEACONS)  
-  AI-generated virtual mannequins + personalized fashion discovery.  
-  `HTML`, `CSS`, `JS`, `Blender`, `Three.js`, `Node.js`
-
-- 🔹 [Personal Portfolio Website](https://vishnu2005.github.io/portfolio) *(to be uploaded)*  
-  One-stop showcase of skills, projects, and achievements.  
-  `React`, `Tailwind`, `GitHub Pages`
+- 👩‍🎓 Electrical Engineering Student @ NIT Silchar (2022–2026), CGPA: 8.63
+- 🧠 Exploring: Computer Vision, Machine Learning, and DSA
+- 💡 Focused on building **problem-solving tech** that impacts real lives
+- 🌱 Currently working on: `Vaynomics` and a **voice-based image descriptor** for the visually impaired
+- 🎯 Goal: Land a tech role in software development (Web + ML/AI)
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Tech Stack
 
-**Languages:** Python, C, C++, JavaScript, SQL, MATLAB  
-**Web:** MERN Stack, REST APIs, Tailwind CSS, Bootstrap  
-**ML & Tools:** NumPy, Pandas, OpenCV  
-**CS Core:** DSA, OS, DBMS, CN, OOP  
-**Tools:** Git, GitHub, Blender, Three.js  
-**Soft Skills:** Team Leadership, Risk Management, Public Speaking
+**Languages & Scripting:** Python, C, C++, JavaScript, SQL  
+**Frontend:** HTML, CSS, JS, Bootstrap, Tailwind CSS  
+**Web Dev:** Node.js, Express.js, MongoDB, React (Basics), REST APIs  
+**CV/ML:** OpenCV, YOLOv8, NumPy, Pandas  
+**Tools:** PyCharm, Git, GitHub, Blender, Three.js  
+**Platforms:** Windows  
+**Soft Skills:** Leadership, Critical Thinking, Time Management, Public Speaking
+
+---
+
+### 💼 Featured Projects
+
+- 🔹 **[Voice-Based Image Descriptor](https://github.com/vishnu2005/Image-Captioning-App)**  
+  Real-time app that converts images into audio in Indian languages for visually impaired users.  
+  *Tech:* Python, OpenCV, TTS, Multilingual NLP, React Native
+
+- 🔹 **[Vaynomics – Smart Travel Optimizer](https://github.com/vishnu2005/vaynomics)** *(Coming Soon)*  
+  Helps reduce travel cost via real-time fare comparison, fuel estimation & public transit info.  
+  *Tech:* HTML, CSS, JS, MongoDB, Node.js
+
+- 🔹 **[Myntra Add-on (Team Project)](https://github.com/vishnu2005/NIT-SILCHAR_BINARY-BEACONS)**  
+  Virtual mannequins + AI-based sizing + personalized fashion sections  
+  *Tech:* HTML, CSS, JavaScript, Blender, Three.js
+
+- 🔹 **[My Portfolio Website](https://vishnu2005.github.io/portfolio)** *(Coming Soon)*  
+  Built with plain HTML/CSS/JS. Minimal & clean UI to showcase all my work.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnu2005&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu2005&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnu2005&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu2005&theme=radical" />
 </p>
 
 ---
 
-### 🏅 Achievements
+### 🏆 Achievements
 
-- ✅ Semi-finalist – **Y20 Hackathon** (May 2023)  
-- ✅ Finalist – **Smart India Hackathon** (Nov 2023)  
-- ✅ Solved 200+ DSA problems on Leetcode/GFG  
-- ✅ Codeforces Master Graphs Camp: Top 0.1% in India  
+- 🥈 Semi-finalist – Y20 Hackathon  
+- 🥇 Finalist – Smart India Hackathon  
+- 🧠 Selected for Codeforces Graph Camp (Top 0.1%)  
+- 📈 Solved 200+ DSA problems on Leetcode and GFG  
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vishnu-priya-243418247/)  
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&style=flat-square)](https://github.com/vishnu2005)  
-📧 vishnupug22@ee.nits.ac.in  
+📧 Email: vishnupriyavivek13@gmail.com
 
 ---
-

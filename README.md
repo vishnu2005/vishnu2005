@@ -109,10 +109,10 @@
 
 ### 🏆 Achievements
 
-- 🥈 Semi-finalist – Y20 Hackathon  
-- 🥇 Finalist – Smart India Hackathon  
-- 🧠 Selected for Codeforces Graph Camp (Top 0.1%)  
-- 📈 Solved 200+ DSA problems on Leetcode and GFG  
+- Semi-finalist – Y20 Hackathon  
+- Finalist – Smart India Hackathon  
+- Selected for Codeforces Graph Camp (Top 0.1%)  
+- Solved 250+ DSA problems on Leetcode and GFG  
 
 ---
 

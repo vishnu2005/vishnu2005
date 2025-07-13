@@ -85,7 +85,7 @@
   Transformer-based encoder-decoder architecture trained on MS COCO for scene understanding.  
   *Tech:* ViT, GPT2, Transformers, PyTorch, Tokenizers, Custom Training Pipelines
 
-- 🔹 **[Vaynomics – Smart Travel Optimizer](https://github.com/vishnu2005/vaynomics)** *(Coming Soon)*  
+- 🔹 **[Vaynomics – Smart Travel Optimizer](https://github.com/vishnu2005/VAYNOMICS)**   
   Helps reduce travel cost via real-time fare comparison, fuel estimation & public transit info.  
   *Tech:* HTML, CSS, JS, MongoDB, Node.js
 

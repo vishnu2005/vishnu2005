@@ -85,9 +85,10 @@
   Transformer-based encoder-decoder architecture trained on MS COCO for scene understanding.  
   *Tech:* ViT, GPT2, Transformers, PyTorch, Tokenizers, Custom Training Pipelines
 
-- 🔹 **[Vaynomics – Smart Travel Optimizer](https://github.com/vishnu2005/VAYNOMICS)**   
-  Helps reduce travel cost via real-time fare comparison, fuel estimation & public transit info.  
-  *Tech:* HTML, CSS, JS, MongoDB, Node.js
+- 🔹 **[VAYNOMICS – Intelligent Multimodal Fare Estimator](https://github.com/vishnu2005/VAYNOMICS)**  
+  Full-stack web platform that predicts and compares real-time travel fares across Uber, Rapido, Metro, Bus, and fuel-based personal transport using ML models, geospatial APIs, and real city fare logic.  
+  📍 **Live App**: [vaynomics.netlify.app](https://68779701d2d3c472a017cbf9--superlative-macaron-26e588.netlify.app/)  
+  🛠️ *Tech Stack:* HTML, CSS, JavaScript, Node.js, Express, MongoDB, Flask, scikit-learn, Leaflet.js, D3.js
 
 - 🔹 **[Myntra Add-on (Team Project)](https://github.com/vishnu2005/NIT-SILCHAR_BINARY-BEACONS)**  
   Virtual mannequins + AI-based sizing + personalized fashion sections  
@@ -102,15 +103,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnu2005&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu2005&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=vishnu2005&theme=radical" />
+
 </p>
 
 ---
 
 ### 🏆 Achievements
 
-- Semi-finalist – Y20 Hackathon  
-- Finalist – Smart India Hackathon  
+- Semi-Finalist – Myntra Hackerramp
+- Semi-Finalist – Smart India Hackathon  
 - Selected for Codeforces Graph Camp (Top 0.1%)  
 - Solved 250+ DSA problems on Leetcode and GFG  
 

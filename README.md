@@ -77,9 +77,9 @@
 
 ### 💼 Featured Projects
 
-- 🔹 **[Voice-Based Image Descriptor](https://github.com/vishnu2005/Image-Captioning-App)**  
+- 🔹 **[Voice-Based Image Descriptor](https://github.com/vishnu2005/ImageDescriptorML_forBlind)**  
   Real-time app that converts images into audio in Indian languages for visually impaired users.  
-  *Tech:* Python, OpenCV, TTS, Multilingual NLP, React Native
+  *Tech:* Python, OpenCV, gTTS, Multilingual NLP, React Native, Yolo, ViT GPT2 + Salesforce BLIP model used, Google translate API, Numpy
 
 - 🔹 **[Image Captioning Model – 87% Accuracy](https://github.com/vishnu2005/Image-Captioning-Model-87-accuracy-)**  
   Transformer-based encoder-decoder architecture trained on MS COCO for scene understanding.  
